@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "Function_Templates", "Templates\Function_Templates.cproj", "{A0EC5242-CC49-4293-A875-91EF5314B0FB}"
+EndProject
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "Class_Templates", "Class_Templates\Class_Templates.cproj", "{E121AB6B-AD60-4C6F-87EC-7BF410DBED9D}"
+EndProject
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "Class_Templates_Specialization", "Class_Templates_Specialization\Class_Templates_Specialization.cproj", "{E65EAC97-48C7-46AE-BAE0-96E5ABEAB50A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0EC5242-CC49-4293-A875-91EF5314B0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EC5242-CC49-4293-A875-91EF5314B0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EC5242-CC49-4293-A875-91EF5314B0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EC5242-CC49-4293-A875-91EF5314B0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E121AB6B-AD60-4C6F-87EC-7BF410DBED9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E121AB6B-AD60-4C6F-87EC-7BF410DBED9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E121AB6B-AD60-4C6F-87EC-7BF410DBED9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E121AB6B-AD60-4C6F-87EC-7BF410DBED9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65EAC97-48C7-46AE-BAE0-96E5ABEAB50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65EAC97-48C7-46AE-BAE0-96E5ABEAB50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65EAC97-48C7-46AE-BAE0-96E5ABEAB50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65EAC97-48C7-46AE-BAE0-96E5ABEAB50A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

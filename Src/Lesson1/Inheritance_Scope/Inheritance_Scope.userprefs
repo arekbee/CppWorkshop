@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Inheritance_Scope/Inheritance_Scope.cproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance_Scope/Employee.cpp">
+    <Files>
+      <File FileName="Inheritance_Scope/Person.h" Line="9" Column="21" />
+      <File FileName="Inheritance_Scope/main.cpp" Line="23" Column="2" />
+      <File FileName="Inheritance_Scope/Employee.h" Line="14" Column="11" />
+      <File FileName="Inheritance_Scope/Employee.cpp" Line="18" Column="66" />
+      <File FileName="Inheritance_Scope/Person.cpp" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance_Scope" expanded="True">
+            <Node name="Inheritance_Scope" expanded="True">
+              <Node name="Employee.cpp" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
