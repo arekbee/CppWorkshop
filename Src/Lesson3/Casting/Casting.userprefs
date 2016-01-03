@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="MemoryManagement_SmartPointers/MemoryManagement_SmartPointers.cproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MemoryManagement_SmartPointers/Employee.cpp">
+    <Files>
+      <File FileName="MemoryManagement_SmartPointers/Employee.cpp" Line="36" Column="16" />
+      <File FileName="MemoryManagement_SmartPointers/Employee.h" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Casting" expanded="True">
+            <Node name="Casting" expanded="True" />
+            <Node name="MemoryManagement" expanded="True" />
+            <Node name="MemoryManagement_SmartPointers" expanded="True">
+              <Node name="Employee.cpp" selected="True" />
+            </Node>
+            <Node name="Pointers_References" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
